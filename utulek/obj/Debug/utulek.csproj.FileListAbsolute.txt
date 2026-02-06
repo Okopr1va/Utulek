@@ -1,2 +1,0 @@
-H:\utulek\utulek\obj\Debug\utulek.csproj.AssemblyReference.cache
-H:\utulek\utulek\obj\Debug\utulek.csproj.CoreCompileInputs.cache
